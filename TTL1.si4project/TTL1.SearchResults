@@ -1,0 +1,4 @@
+---- @brief Adjust the value of External High Speed ... Matches (3 in 3 files) ----
+common.h (Core\Inc) line 10 : /*@brief Adjust the value of External High Speed oscillator (HSE) used in your application.*/
+stm32h7xx_hal_conf.h (Core\Inc) line 103 :   * @brief Adjust the value of External High Speed oscillator (HSE) used in your application.
+stm32h7xx_hal_conf_template.h (Drivers\STM32H7xx_HAL_Driver\Inc) line 102 :   * @brief Adjust the value of External High Speed oscillator (HSE) used in your application.
